@@ -10,7 +10,6 @@ start_token = 'G'
 end_token = 'E'
 batch_size = 64
 
-
 def process_poems1(file_name):
     """
 
